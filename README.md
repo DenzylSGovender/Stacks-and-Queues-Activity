@@ -9,7 +9,7 @@ The emergency department receives patients throughout the day. Under normal circ
 
 For example:
 
-```text
+
 08:01 - Patient 1001 - John
 08:03 - Patient 1002 - Sarah
 08:05 - Patient 1003 - Michael
@@ -57,7 +57,7 @@ Your application must provide functionality similar to the following:
 0. Exit
 
 Please select an option:
-```text
+
 
 1. Register Patient
 
