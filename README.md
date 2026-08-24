@@ -94,4 +94,4 @@ The medical staff member must be able to undo the most recent action.
 
 The system should display basic information about its current state.
 
-GitHub Submission Link: https://classroom50.org/EMKNDN/emkndn-prog7312-g2-2026/assignments/prog7312-ice-task-3/accept
+GitHub Submission Link: https://classroom50.org/EMKNDN/emkndn-prog7312-g2-2026/assignments/prog7312-ice-task-4/accept
