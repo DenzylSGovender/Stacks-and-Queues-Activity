@@ -57,3 +57,41 @@ Your application must provide functionality similar to the following:
 0. Exit
 
 Please select an option:
+```text
+
+1. Register Patient
+
+The user must be able to register a patient.
+
+Capture at least:
+
+Patient number
+Patient name
+Age
+Reason for visit
+
+2. View Waiting Patients
+
+The system must display all patients currently waiting.
+
+3. Call Next Patient
+
+The receptionist should be able to call the next patient.
+
+4. Record Patient Action
+
+Medical staff must be able to record actions performed on a patient's record.
+
+5. View Most Recent Action
+
+The system must allow the medical staff member to see the most recent action.
+
+6. Undo Last Action
+
+The medical staff member must be able to undo the most recent action.
+
+7. Display Statistics
+
+The system should display basic information about its current state.
+
+GitHub Submission Link: https://classroom50.org/EMKNDN/emkndn-prog7312-g2-2026/assignments/prog7312-ice-task-3/accept
